@@ -1,7 +1,7 @@
 ### Olá! Me chamo Luiz Guilherme👋
 
 🌱 I’m currently learning Java<br>
-👯 I’m looking to collaborate on Frontend<br>
+👯 I’m looking to collaborate on Front-End<br>
 📫 How to reach me:luizmartinsds@outlook.com
 
 <p>##Tools and Technologies💻</p>
