@@ -6,7 +6,7 @@ I'm Luiz Martins!
 
 🌱 I’m currently learning Java<br>
 👯 I’m looking to collaborate on Front-End<br>
-📫 How to reach me:luizmartinsds@outlook.com
+📫 How to reach me:luizmartts@gmail.com
 
 <p>##Tools and Technologies💻</p>
 <div>
