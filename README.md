@@ -8,11 +8,8 @@ I'm Luiz Martins!
 👯 I’m looking to collaborate on Front-End<br>
 📫 How to reach me:luizmartts@gmail.com
 
-<p>##Tools and Technologies💻</p>
-<div>
-  <a href="https://github.com/LuizMartt">
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFantoni&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p>💻Tools and Technologies💻</p>
+
     
 ##
 
